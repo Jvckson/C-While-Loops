@@ -1,7 +1,7 @@
 # C-While-Loops
 Basic problem solving with while loops in C++
 
-User Documentation
+# User Documentation n/
 a.	Open the file Ch5Program.cpp in Microsoft Visual Studio by right clicking on the file, selecting ‘Open with’ and then selecting Microsoft Visual Studio.
 b.	Run the program by clicking ‘Local Windows Debugger” on the toolbar.
 c.	A window will open. This is the program output.
